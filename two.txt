@@ -1,2 +1,6 @@
 two 2
+<<<<<<< HEAD
 sharma
+=======
+chandan
+>>>>>>> staging
